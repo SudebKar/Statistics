@@ -1,0 +1,16 @@
+Box plot and whisker plot
+Inter quartile range
+Difference between descriptive and inferential statistics
+Outliers
+Normal distribution
+Relation between normal and box plot
+Central tendency
+Correlation - range, simple correlation coefficient
+Sampling methods
+Types of variables - Qualitative quantitative discrete continuous
+Scale of measurement - nominal ordinal interval range
+Types of sampling - simple random, systematic, stratified
+Clustering
+Clustering vs sampling
+Standardization of normal distribution
+Z-score
